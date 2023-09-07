@@ -1,0 +1,6 @@
+.fms{
+    display: flexbox;
+    text-align: center;
+    flex-direction: column;
+
+}
